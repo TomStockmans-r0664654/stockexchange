@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/TomStockmans-r0664654/stockexchange.svg?branch=master)](https://travis-ci.org/TomStockmans-r0664654/stockexchange)
